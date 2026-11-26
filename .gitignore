@@ -1,4 +1,4 @@
-# secrets
+# secrets (only the env files are kept out)
 backend/.env
 backend/.env.*
 !backend/.env.example
@@ -13,12 +13,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-# data and weights (never committed)
-datasets/
-*.zip
-backend/artifacts/
-*.pt
-*.pth
-*.safetensors
-*.bin
-*.joblib
+# duplicate archives of folders that are pushed
+/app.zip
+/datasets.zip

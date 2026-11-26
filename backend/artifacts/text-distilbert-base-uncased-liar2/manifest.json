@@ -1,0 +1,33 @@
+{
+  "kind": "text",
+  "base_model": "distilbert-base-uncased",
+  "trained_on": "liar2",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "weights_seed": 42,
+  "temperature_by_seed": {
+    "42": 1.703973,
+    "43": 1.689438,
+    "44": 1.652876
+  },
+  "data_loader_sha256": "399f9da41f863ac720ce189d6a9edda9da59eef6958186d7697392636177b364",
+  "hyperparameters": {
+    "epochs": 2,
+    "batch_size": 16,
+    "lr": 3e-05,
+    "max_length": 128,
+    "weight_decay": 0.01,
+    "warmup": 0.06,
+    "limit": null
+  },
+  "val_macro_f1_by_seed": {
+    "42": 0.7023,
+    "43": 0.7016,
+    "44": 0.7044
+  },
+  "created": "2026-11-23",
+  "notes": "Trained on CPU by research/train_text.py. DistilBERT replaces the plan's BERT-base for speed."
+}

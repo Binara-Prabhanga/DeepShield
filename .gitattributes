@@ -1,0 +1,7 @@
+datasets/fakeddit_9k/image_cache/models--Qwen--Qwen2-VL-2B-Instruct/blobs/92540d8353c8d226a589a3b179bdb33851c970ee2cc2ac7ba035f79425e7b833 filter=lfs diff=lfs merge=lfs -text
+datasets/fakeddit_9k/image_cache.zip filter=lfs diff=lfs merge=lfs -text
+datasets/fakeddit_official/multimodal_train.tsv filter=lfs diff=lfs merge=lfs -text
+backend/artifacts/text-distilbert-base-uncased-fakeddit/model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+backend/artifacts/text-distilbert-base-uncased-fakeddit_official/model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+backend/artifacts/text-distilbert-base-uncased-liar2/model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+backend/artifacts/text-distilbert-base-uncased-liar2_temporal/model/model.safetensors filter=lfs diff=lfs merge=lfs -text

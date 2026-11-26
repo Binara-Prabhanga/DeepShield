@@ -1,0 +1,38 @@
+{
+  "kind": "multimodal",
+  "base_model": "openai/clip-vit-base-patch32 (frozen) + FusionHead",
+  "trained_on": "fakeddit_official",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "weights_seed": 42,
+  "temperature_by_seed": {
+    "42": 0.988778,
+    "43": 0.918546,
+    "44": 1.108265
+  },
+  "data_loader_sha256": "5db2c3068abe933ec0be4dd3241516ce97daa2f9a81e5b1a47924914dc2d08b8",
+  "hyperparameters": {
+    "hidden_dim": 512,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "batch_size": 64,
+    "max_epochs": 40,
+    "patience": 5,
+    "weight_decay": 0.0001
+  },
+  "val_macro_f1_by_seed": {
+    "42": 0.8837,
+    "43": 0.8802,
+    "44": 0.8805
+  },
+  "bad_images": {
+    "train": [],
+    "val": [],
+    "test": []
+  },
+  "created": "2026-11-23",
+  "notes": "Official Fakeddit v2.0 multimodal sample (research/fetch_fakeddit.py); rows whose image could not be downloaded are excluded."
+}

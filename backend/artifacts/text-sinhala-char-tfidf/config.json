@@ -1,0 +1,13 @@
+{
+  "kind": "sinhala-char-tfidf",
+  "task": "binary",
+  "misleading_index": 1,
+  "trained_on": "datasets/sinhala_lirneasia/Corpus.xlsx (CREDIBLE vs FALSE+PARTIAL)",
+  "n": 1113,
+  "n_misleading": 110,
+  "seed": 42,
+  "calibration": "sigmoid, 5-fold",
+  "cv_auroc": 0.748,
+  "cv_results": "results/sinhala/20261123-203433",
+  "sklearn": "1.9.1"
+}

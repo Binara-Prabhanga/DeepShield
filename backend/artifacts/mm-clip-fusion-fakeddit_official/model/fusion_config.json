@@ -1,0 +1,7 @@
+{
+  "clip_model": "openai/clip-vit-base-patch32",
+  "hidden_dim": 512,
+  "dropout": 0.1,
+  "real_index": 1,
+  "temperature": 0.988778
+}

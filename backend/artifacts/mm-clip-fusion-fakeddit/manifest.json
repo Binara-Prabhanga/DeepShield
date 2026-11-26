@@ -1,0 +1,38 @@
+{
+  "kind": "multimodal",
+  "base_model": "openai/clip-vit-base-patch32 (frozen) + FusionHead",
+  "trained_on": "fakeddit",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "weights_seed": 42,
+  "temperature_by_seed": {
+    "42": 1.035473,
+    "43": 0.956459,
+    "44": 1.028238
+  },
+  "data_loader_sha256": "399f9da41f863ac720ce189d6a9edda9da59eef6958186d7697392636177b364",
+  "hyperparameters": {
+    "hidden_dim": 512,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "batch_size": 64,
+    "max_epochs": 40,
+    "patience": 5,
+    "weight_decay": 0.0001
+  },
+  "val_macro_f1_by_seed": {
+    "42": 0.7875,
+    "43": 0.795,
+    "44": 0.7873
+  },
+  "bad_images": {
+    "train": [],
+    "val": [],
+    "test": []
+  },
+  "created": "2026-11-23",
+  "notes": "Fakeddit mirror is unofficial: for building and testing only, not paper numbers."
+}
