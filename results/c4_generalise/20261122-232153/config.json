@@ -1,0 +1,53 @@
+{
+  "protocol": {
+    "liar2": {
+      "in": [
+        "liar2",
+        "test"
+      ],
+      "targets": [
+        [
+          "liar_unseen",
+          "test"
+        ],
+        [
+          "fakeddit",
+          "test"
+        ]
+      ]
+    },
+    "liar2_temporal": {
+      "in": [
+        "liar2_temporal",
+        "test"
+      ],
+      "targets": [
+        [
+          "liar2_temporal",
+          "future"
+        ]
+      ]
+    },
+    "fakeddit": {
+      "in": [
+        "fakeddit",
+        "test"
+      ],
+      "targets": [
+        [
+          "liar2",
+          "test"
+        ]
+      ]
+    }
+  },
+  "models": "tfidf_placeholder",
+  "local_set": false,
+  "temporal": {
+    "past_end": "2018-01-01",
+    "future_start": "2019-01-01"
+  },
+  "seed": 42,
+  "bootstrap": 1000,
+  "python": "3.13.14"
+}

@@ -1,0 +1,38 @@
+  judged 1/150
+  judged 26/150
+  judged 51/150
+  judged 76/150
+  judged 101/150
+  judged 126/150
+{
+  "n_claims": 150,
+  "n_answered": 149,
+  "coverage_decided": 0.2483221476510067,
+  "verdicts": {
+    "supported": 5,
+    "not_enough_evidence": 112,
+    "refuted": 32
+  },
+  "supported": {
+    "n": 5,
+    "right": 4
+  },
+  "refuted": {
+    "n": 32,
+    "right": 30
+  },
+  "supported_by_kind": {
+    "": {
+      "n": 5,
+      "right": 4
+    }
+  },
+  "kinds": {
+    "": 149
+  },
+  "decided": {
+    "n": 37,
+    "judge_accuracy": 0.918918918918919
+  }
+}
+Wrote ..\results\judge\20261125-034438

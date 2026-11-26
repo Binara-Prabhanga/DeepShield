@@ -1,0 +1,30 @@
+{
+  "data": "datasets/sinhala_lirneasia/Corpus.xlsx",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "folds": 5,
+  "models": [
+    "domain",
+    "char_tfidf",
+    "word_tfidf",
+    "labse",
+    "xlmr"
+  ],
+  "labse": "sentence-transformers/LaBSE",
+  "xlmr": {
+    "model": "xlm-roberta-base",
+    "runs": [
+      "binary:random"
+    ],
+    "epochs": 3,
+    "lr": 2e-05,
+    "max_length": 128,
+    "frozen_embeddings": true,
+    "seed": 42
+  },
+  "bootstrap": 1000,
+  "python": "3.13.14"
+}

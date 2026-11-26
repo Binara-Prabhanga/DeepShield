@@ -1,0 +1,39 @@
+{
+  "n_train": 18369,
+  "threshold": 0.3852572739124298,
+  "quantile": 0.05,
+  "liar2_val_sim_median": 0.5094746947288513,
+  "liar2_test_rejected": 0.05400696864111498,
+  "other_datasets": {
+    "fakeddit_official_test (Reddit titles)": {
+      "n": 1000,
+      "median_sim": 0.31952768564224243,
+      "rejected": 0.827,
+      "auroc_far_from_liar2": 0.9609198606271776
+    },
+    "sri_lanka_fact_checks": {
+      "n": 212,
+      "median_sim": 0.33270835876464844,
+      "rejected": 0.7783018867924528,
+      "auroc_far_from_liar2": 0.954638090855302
+    },
+    "examples": {
+      "n": 3,
+      "median_sim": 0.3710135221481323,
+      "rejected": 0.6666666666666666,
+      "similarities": [
+        0.371,
+        0.277,
+        0.591
+      ]
+    }
+  },
+  "text_model_error_rate": {
+    "n": 500,
+    "rejected_n": 20,
+    "error_when_rejected": 0.3,
+    "error_when_kept": 0.30416666666666664,
+    "lowest_20pct_similarity": 0.23,
+    "highest_80pct_similarity": 0.3225
+  }
+}

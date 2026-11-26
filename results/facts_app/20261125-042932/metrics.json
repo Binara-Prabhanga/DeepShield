@@ -1,0 +1,10 @@
+{
+  "split": "obscure_test",
+  "n": 15,
+  "right": 15,
+  "wrong": 0,
+  "needs_review": 0,
+  "table": {
+    "real -> Likely authentic": 15
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "dataset": "liar2",
+  "half_true": "real",
+  "c1_predictions": "..\\results\\live_evidence\\20261123-133939\\live_s_ev.csv",
+  "c1_column": "sentence_s_ev",
+  "text_signal": "export:artifacts\\text-distilbert-base-uncased-liar2",
+  "only_scored": true,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "alphas": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "bins": 15,
+  "bootstrap": 1000,
+  "python": "3.13.14"
+}

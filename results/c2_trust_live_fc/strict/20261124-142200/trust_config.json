@@ -1,0 +1,19 @@
+{
+  "weights": {
+    "text_value": 0.812071,
+    "text_missing": 0.0,
+    "fused_value": 0.0,
+    "fused_missing": 0.0,
+    "evidence_value": 1.419092,
+    "evidence_missing": -0.167333
+  },
+  "bias": 0.289996,
+  "temperature": 0.999059,
+  "alpha": 0.1,
+  "qhat": 0.6980587670524697,
+  "meta": {
+    "text_signal": "export:artifacts\\text-distilbert-base-uncased-liar2",
+    "evidence": "..\\results\\live_evidence\\20261124-factcheck-strict\\live_s_ev.csv",
+    "note": "Research artifact fitted on LIAR2; check the text signal before loading it in the app."
+  }
+}

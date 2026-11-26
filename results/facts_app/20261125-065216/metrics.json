@@ -1,0 +1,13 @@
+{
+  "split": "blind",
+  "n": 72,
+  "right": 66,
+  "wrong": 0,
+  "needs_review": 6,
+  "table": {
+    "not real -> Needs review": 2,
+    "not real -> Potentially misleading": 34,
+    "real -> Likely authentic": 32,
+    "real -> Needs review": 4
+  }
+}

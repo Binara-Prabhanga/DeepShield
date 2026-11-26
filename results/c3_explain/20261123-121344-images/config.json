@@ -1,0 +1,15 @@
+{
+  "dataset": "fakeddit",
+  "split": "test",
+  "n": 100,
+  "model": "MULTIMODAL_MODEL_PATH",
+  "fractions": [
+    0.01,
+    0.05,
+    0.1,
+    0.2,
+    0.5
+  ],
+  "n_random": 5,
+  "seed": 42
+}

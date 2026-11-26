@@ -1,0 +1,10 @@
+{
+  "split": "fiction_test",
+  "n": 20,
+  "right": 20,
+  "wrong": 0,
+  "needs_review": 0,
+  "table": {
+    "not real -> Potentially misleading": 20
+  }
+}

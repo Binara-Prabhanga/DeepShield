@@ -1,0 +1,24 @@
+# secrets
+backend/.env
+backend/.env.*
+!backend/.env.example
+backend/atlas-credentials.env
+*.env.bak
+
+# environments, builds, caches
+.venv/
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data and weights (never committed)
+datasets/
+*.zip
+backend/artifacts/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.joblib

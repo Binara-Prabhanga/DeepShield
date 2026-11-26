@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "bootstrap": 1000,
+  "dataset": "liar2 val (tune) / test (score)",
+  "gold_mapping": "labels 4-5 supports, 0-1 refutes, 2-3 excluded from scoring",
+  "evidence": "cleaned LIAR2 justification (gold evidence, not live retrieval)",
+  "variants": [
+    "passage",
+    "sentence_decisive",
+    "sentence_max",
+    "sentence_mean"
+  ],
+  "python": "3.13.14",
+  "model": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "limit": 500,
+  "torch": "2.15.0+cpu",
+  "model_revision": "b3546ea6b0346eb6f8d5d68b13c7dc6d0376b3d7",
+  "runtime_seconds": 4618.7
+}

@@ -1,0 +1,17 @@
+{
+  "claims": "LIAR2 test ids from results\\c3_explain\\20261123-125219\\items.csv",
+  "n": 500,
+  "providers_enabled": {
+    "wikipedia": true,
+    "tavily": false,
+    "google_factcheck": false
+  },
+  "leak_domains": [
+    "politifact.com"
+  ],
+  "text_model": "C:\\Users\\Binara\\Downloads\\DeepShield\\backend\\artifacts\\text-distilbert-base-uncased-liar2\\model",
+  "stance_model": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+  "trust_model": "C:\\Users\\Binara\\Downloads\\DeepShield\\results\\c2_trust\\20261123-111702",
+  "bootstrap": 1000,
+  "python": "3.13.14"
+}

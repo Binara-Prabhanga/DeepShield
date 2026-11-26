@@ -1,0 +1,14 @@
+{
+  "split": "test",
+  "n": 60,
+  "right": 50,
+  "wrong": 2,
+  "needs_review": 8,
+  "table": {
+    "not real -> Needs review": 4,
+    "not real -> Potentially misleading": 26,
+    "real -> Likely authentic": 24,
+    "real -> Needs review": 4,
+    "real -> Potentially misleading": 2
+  }
+}

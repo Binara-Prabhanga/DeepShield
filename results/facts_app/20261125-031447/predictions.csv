@@ -1,0 +1,61 @@
+id,claim,truth,label,score,judge,out_of_domain,text_p_real
+fact-30t,"The speed of light in a vacuum is about 300,000 kilometres per second.",real,Likely authentic,85,supported,True,0.459
+fact-30f,The speed of light in a vacuum is about 300 kilometres per hour.,not real,Potentially misleading,20,refuted,True,0.481
+fact-31t,India gained independence in 1947.,real,Likely authentic,85,supported,True,0.269
+fact-31f,India gained independence in 1960.,not real,Potentially misleading,20,refuted,True,0.268
+fact-32t,The Colosseum is located in Rome.,real,Likely authentic,85,supported,True,0.214
+fact-32f,The Colosseum is located in Athens.,not real,Potentially misleading,15,refuted,True,0.198
+fact-33t,Brazil has won the FIFA World Cup five times.,real,Likely authentic,85,supported,True,0.733
+fact-33f,Brazil has won the FIFA World Cup ten times.,not real,Potentially misleading,20,refuted,True,0.749
+fact-34t,Mahatma Gandhi led the Indian independence movement through nonviolent resistance.,real,Likely authentic,85,supported,True,0.095
+fact-34f,Mahatma Gandhi led the Indian independence movement through armed warfare.,not real,Potentially misleading,15,refuted,True,0.114
+fact-35t,The Sahara is the largest hot desert in the world.,real,Likely authentic,85,supported,True,0.622
+fact-35f,The Gobi is the largest hot desert in the world.,not real,Potentially misleading,20,refuted,True,0.534
+fact-36t,William Shakespeare wrote Hamlet.,real,Likely authentic,85,supported,True,0.129
+fact-36f,Charles Dickens wrote Hamlet.,not real,Potentially misleading,10,refuted,True,0.115
+fact-37t,DNA carries genetic information in living organisms.,real,Likely authentic,85,supported,True,0.286
+fact-37f,DNA is found only in plants.,not real,Potentially misleading,20,refuted,True,0.256
+fact-38t,Tokyo hosted the Summer Olympics in 1964.,real,Likely authentic,85,supported,True,0.368
+fact-38f,Tokyo hosted the Summer Olympics in 1924.,not real,Potentially misleading,20,refuted,True,0.362
+fact-39t,The chemical symbol for gold is Au.,real,Likely authentic,85,supported,True,0.187
+fact-39f,The chemical symbol for gold is Ag.,not real,Potentially misleading,20,refuted,True,0.233
+fact-40t,Russia launched a full-scale invasion of Ukraine in February 2022.,real,Needs review,50,supported,False,0.088
+fact-40f,Russia launched a full-scale invasion of Ukraine in February 2012.,not real,Potentially misleading,10,refuted,False,0.112
+fact-41t,The euro is the currency of Germany.,real,Likely authentic,85,supported,True,0.47
+fact-41f,The yen is the currency of Germany.,not real,Potentially misleading,20,refuted,True,0.499
+fact-42t,Venus is the hottest planet in the Solar System.,real,Likely authentic,85,supported,True,0.245
+fact-42f,Mars is the hottest planet in the Solar System.,not real,Potentially misleading,20,refuted,True,0.331
+fact-43t,The Panama Canal connects the Atlantic and Pacific oceans.,real,Likely authentic,85,supported,True,0.53
+fact-43f,The Suez Canal connects the Atlantic and Pacific oceans.,not real,Potentially misleading,20,refuted,True,0.374
+fact-44t,The blue water lily is the national flower of Sri Lanka.,real,Likely authentic,85,supported,True,0.321
+fact-44f,The red rose is the national flower of Sri Lanka.,not real,Potentially misleading,20,refuted,True,0.399
+fact-45t,Sri Jayawardenepura Kotte is the legislative capital of Sri Lanka.,real,Likely authentic,85,supported,True,0.505
+fact-45f,Anuradhapura is the current capital of Sri Lanka.,not real,Potentially misleading,20,refuted,True,0.507
+fact-46t,The 2008 Summer Olympics were held in Beijing.,real,Likely authentic,85,supported,True,0.283
+fact-46f,The 2008 Summer Olympics were held in Sydney.,not real,Potentially misleading,20,refuted,True,0.266
+fact-47t,Mercury is the closest planet to the Sun.,real,Likely authentic,85,supported,True,0.206
+fact-47f,Neptune is the closest planet to the Sun.,not real,Potentially misleading,20,refuted,True,0.248
+fact-48t,The Statue of Liberty was a gift from France to the United States.,real,Likely authentic,85,supported,True,0.139
+fact-48f,The Statue of Liberty was a gift from Spain to the United States.,not real,Potentially misleading,20,refuted,True,0.195
+fact-49t,Penicillin was discovered by Alexander Fleming.,real,Likely authentic,85,supported,True,0.085
+fact-49f,Penicillin was discovered by Marie Curie.,not real,Potentially misleading,9,refuted,True,0.075
+fact-50t,The Great Barrier Reef is off the coast of Australia.,real,Likely authentic,85,supported,True,0.412
+fact-50f,The Great Barrier Reef is off the coast of Norway.,not real,Potentially misleading,20,refuted,True,0.384
+fact-51t,Sinhala and Tamil are the official languages of Sri Lanka.,real,Likely authentic,85,supported,True,0.554
+fact-51f,French and German are the official languages of Sri Lanka.,not real,Potentially misleading,20,refuted,True,0.49
+fact-52t,Bitcoin was created by a person or group using the name Satoshi Nakamoto.,real,Likely authentic,85,supported,True,0.097
+fact-52f,Bitcoin was created by Elon Musk.,not real,Potentially misleading,9,refuted,False,0.071
+fact-53t,The Olympic Games originated in ancient Greece.,real,Likely authentic,85,supported,True,0.434
+fact-53f,The Olympic Games originated in ancient Rome.,not real,Potentially misleading,20,refuted,True,0.425
+fact-54t,Antarctica is the coldest continent.,real,Needs review,42,supported,False,0.297
+fact-54f,Africa is the coldest continent.,not real,Potentially misleading,20,refuted,False,0.446
+fact-55t,The Chernobyl nuclear disaster occurred in 1986.,real,Likely authentic,85,supported,True,0.157
+fact-55f,The Chernobyl nuclear disaster occurred in 1996.,not real,Potentially misleading,14,refuted,True,0.161
+fact-56t,Ludwig van Beethoven composed the Ninth Symphony.,real,Likely authentic,85,supported,True,0.149
+fact-56f,Ludwig van Beethoven composed The Four Seasons.,not real,Potentially misleading,18,refuted,True,0.201
+fact-57t,Mount Fuji is in Japan.,real,Likely authentic,85,supported,True,0.491
+fact-57f,Mount Fuji is in China.,not real,Potentially misleading,20,refuted,True,0.399
+fact-58t,The Burj Khalifa is in Dubai.,real,Likely authentic,85,supported,True,0.403
+fact-58f,The Burj Khalifa is in Paris.,not real,Potentially misleading,11,refuted,True,0.155
+fact-59t,Michael Phelps has won more Olympic gold medals than any other athlete.,real,Likely authentic,85,supported,True,0.761
+fact-59f,Usain Bolt has won more Olympic gold medals than any other athlete.,not real,Potentially misleading,20,refuted,True,0.719

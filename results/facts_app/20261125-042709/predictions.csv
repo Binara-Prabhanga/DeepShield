@@ -1,0 +1,21 @@
+id,claim,truth,label,score,judge,out_of_domain,text_p_real
+fict-20,Drinking a cup of bleach daily has been approved by doctors as a vitamin supplement.,not real,Potentially misleading,8,refuted,True,0.076
+fict-21,"The Pacific Ocean has dried up completely, leaving only sand.",not real,Potentially misleading,10,refuted,True,0.135
+fict-22,Bitcoin was declared the official religion of Switzerland.,not real,Potentially misleading,13,refuted,True,0.136
+fict-23,Scientists announced they have cloned a living dinosaur and it now works at a bank in London.,not real,Potentially misleading,7,refuted,True,0.07
+fict-24,The entire population of Japan moved to the Sahara desert last summer.,not real,Potentially misleading,20,refuted,True,0.471
+fict-25,The Sri Lankan cricket team won the football World Cup by scoring twelve goals in the final.,not real,Potentially misleading,20,refuted,True,0.387
+fict-26,A volcano erupted in the middle of the Thames river in London and created a new island of chocolate.,not real,Potentially misleading,7,refuted,True,0.094
+fict-27,The Queen of England has announced that she will play for Manchester United next season.,not real,Potentially misleading,10,refuted,True,0.105
+fict-28,Mount Everest was shortened by ten kilometres after a powerful sneeze.,not real,Potentially misleading,20,refuted,True,0.225
+fict-29,The Titanic has been refloated and now sails daily between Colombo and Dubai.,not real,Potentially misleading,13,refuted,True,0.17
+fict-30,Humans have been confirmed to photosynthesize if they stand in the sun for ten minutes.,not real,Potentially misleading,9,refuted,True,0.075
+fict-31,The planet Jupiter was moved closer to Earth so that people can visit by train.,not real,Potentially misleading,20,refuted,True,0.179
+fict-32,Every tree in the world turned purple on the same day in March.,not real,Potentially misleading,20,refuted,True,0.257
+fict-33,The Statue of Liberty has been given to Brazil and now stands in Rio.,not real,Potentially misleading,19,refuted,True,0.195
+fict-34,The WHO announced that sleeping is no longer necessary for adults.,not real,Potentially misleading,5,refuted,True,0.061
+fict-35,A new law bans clouds from entering the airspace of Germany.,not real,Potentially misleading,18,refuted,True,0.217
+fict-36,The Moon has been sold to a private company for one dollar.,not real,Potentially misleading,16,refuted,False,0.118
+fict-37,Water has been declared to be dry by the International Committee of Chemistry.,not real,Potentially misleading,8,refuted,True,0.096
+fict-38,The Pyramids of Giza were built last year using 3D printers.,not real,Potentially misleading,12,refuted,True,0.157
+fict-39,All the world's oceans turned to ice for twenty-four hours in 2024.,not real,Potentially misleading,16,refuted,False,0.153

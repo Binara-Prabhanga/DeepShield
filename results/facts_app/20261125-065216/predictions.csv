@@ -1,0 +1,73 @@
+id,claim,truth,label,score,judge,out_of_domain,text_p_real
+blind-t00,Water boils at 100 degrees Celsius at sea level.,real,Needs review,50,,True,0.124
+blind-t01,The Nile flows through Egypt.,real,Likely authentic,85,supported,True,0.488
+blind-t02,Leonardo da Vinci painted the Mona Lisa.,real,Likely authentic,85,supported,True,0.103
+blind-t03,Humans have 23 pairs of chromosomes.,real,Likely authentic,85,supported,True,0.389
+blind-t04,Tokyo is the capital of Japan.,real,Likely authentic,85,supported,True,0.573
+blind-t05,The human heart has four chambers.,real,Likely authentic,85,supported,True,0.424
+blind-t06,World War II ended in 1945.,real,Likely authentic,85,supported,True,0.373
+blind-t07,Mars is the fourth planet from the Sun.,real,Likely authentic,85,supported,True,0.264
+blind-t08,"Shakespeare wrote Hamlet, a tragedy about a Danish prince.",real,Likely authentic,85,supported,True,0.155
+blind-t09,The Amazon is the largest rainforest on Earth.,real,Needs review,50,,True,0.575
+blind-t10,Oxygen is essential for human respiration.,real,Likely authentic,85,supported,True,0.283
+blind-t11,Mount Kilimanjaro is the highest mountain in Africa.,real,Likely authentic,85,supported,True,0.441
+blind-t12,The Berlin Wall fell in 1989.,real,Likely authentic,85,supported,True,0.401
+blind-t13,Albert Einstein developed the theory of relativity.,real,Likely authentic,85,supported,True,0.2
+blind-t14,Canberra is the capital city of Australia.,real,Likely authentic,85,supported,True,0.6
+blind-t15,Sound cannot travel through a vacuum.,real,Likely authentic,85,supported,True,0.172
+blind-t16,"The Great Barrier Reef lies off the coast of Queensland, Australia.",real,Likely authentic,85,supported,True,0.397
+blind-t17,Marie Curie won Nobel Prizes in both physics and chemistry.,real,Likely authentic,85,supported,True,0.168
+blind-t18,The Pacific is the largest of the world's oceans.,real,Likely authentic,85,supported,True,0.596
+blind-t19,Neil Armstrong was the first person to walk on the Moon in 1969.,real,Likely authentic,85,supported,True,0.177
+blind-t20,Honey never spoils if it is stored properly.,real,Needs review,50,not_enough_evidence,True,0.264
+blind-t21,Penicillin was discovered by Alexander Fleming in 1928.,real,Likely authentic,85,supported,True,0.136
+blind-t22,India gained independence from British rule in 1947.,real,Likely authentic,85,supported,True,0.267
+blind-t23,Diamonds are made of carbon.,real,Likely authentic,85,supported,True,0.443
+blind-f00,Water boils at 50 degrees Celsius at sea level.,not real,Potentially misleading,13,refuted,True,0.128
+blind-f01,The Nile flows through Brazil.,not real,Potentially misleading,20,refuted,True,0.47
+blind-f02,Michelangelo painted the Mona Lisa.,not real,Potentially misleading,11,refuted,True,0.148
+blind-f03,Humans have 30 pairs of chromosomes.,not real,Needs review,50,,True,0.435
+blind-f04,Kyoto is the capital of Japan today.,not real,Potentially misleading,20,refuted,True,0.641
+blind-f05,The human heart has seven chambers.,not real,Potentially misleading,20,refuted,True,0.46
+blind-f06,World War II ended in 1960.,not real,Potentially misleading,20,refuted,True,0.399
+blind-f07,Mars is the closest planet to the Sun.,not real,Potentially misleading,20,refuted,True,0.246
+blind-f08,"Shakespeare wrote Hamlet, a comedy about a Spanish king.",not real,Potentially misleading,19,refuted,True,0.173
+blind-f09,The Sahara is the largest rainforest on Earth.,not real,Potentially misleading,20,refuted,True,0.527
+blind-f10,Helium is essential for human respiration.,not real,Potentially misleading,16,refuted,True,0.197
+blind-f11,Mount Kilimanjaro is the highest mountain in Europe.,not real,Potentially misleading,20,refuted,True,0.395
+blind-f12,The Berlin Wall fell in 1975.,not real,Potentially misleading,20,refuted,True,0.358
+blind-f13,Isaac Newton developed the theory of relativity.,not real,Potentially misleading,19,refuted,True,0.215
+blind-f14,Sydney is the capital city of Australia.,not real,Potentially misleading,20,refuted,True,0.574
+blind-f15,Sound travels faster than light through a vacuum.,not real,Potentially misleading,20,refuted,True,0.358
+blind-f16,The Great Barrier Reef lies off the coast of Norway.,not real,Potentially misleading,20,refuted,True,0.349
+blind-f17,Marie Curie never won a Nobel Prize.,not real,Potentially misleading,20,refuted,False,0.332
+blind-f18,The Atlantic is the largest of the world's oceans.,not real,Potentially misleading,20,refuted,True,0.598
+blind-f19,Buzz Aldrin was the first person to walk on the Moon in 1985.,not real,Potentially misleading,14,refuted,False,0.183
+blind-f20,Humans only use ten percent of their brains.,not real,Potentially misleading,20,refuted,True,0.471
+blind-f21,Penicillin was discovered by Isaac Newton in 1628.,not real,Potentially misleading,18,refuted,True,0.179
+blind-f22,India gained independence from French rule in 1947.,not real,Potentially misleading,20,refuted,True,0.241
+blind-f23,Diamonds are made of iron.,not real,Potentially misleading,20,refuted,True,0.429
+blind-i00,Scientists confirm that the Moon is made of cheese.,not real,Potentially misleading,8,refuted,True,0.08
+blind-i01,Parliament passed a law making rain illegal on weekends.,not real,Potentially misleading,19,refuted,True,0.201
+blind-i02,A man in Kandy has lived for 400 years.,not real,Potentially misleading,20,refuted,True,0.473
+blind-i03,Sri Lanka will switch to driving underwater next year.,not real,Potentially misleading,15,refuted,True,0.127
+blind-i04,Researchers taught goldfish to run for public office.,not real,Potentially misleading,20,refuted,True,0.234
+blind-i05,NASA announced that a city was found on the far side of Venus.,not real,Potentially misleading,8,refuted,True,0.069
+blind-i06,The central bank will pay citizens in chocolate coins starting in March.,not real,Potentially misleading,14,refuted,True,0.101
+blind-i07,A new species of dragon was discovered in the Yala National Park.,not real,Needs review,50,not_enough_evidence,True,0.109
+blind-i08,Drinking seawater daily is endorsed by all doctors as healthy.,not real,Potentially misleading,10,refuted,True,0.119
+blind-i09,Mount Everest moved to Nepal's capital overnight last week.,not real,Potentially misleading,11,refuted,True,0.135
+blind-i10,The government ordered all clocks in the country to run backwards.,not real,Potentially misleading,7,refuted,True,0.094
+blind-i11,Sunlight has been banned in Colombo during public holidays.,not real,Potentially misleading,20,refuted,True,0.311
+blind-l00,Colombo is the largest city in Sri Lanka.,real,Likely authentic,85,supported,True,0.637
+blind-l01,Sri Lanka is an island in the Indian Ocean.,real,Likely authentic,85,supported,True,0.413
+blind-l02,Kandy is home to the Temple of the Tooth.,real,Likely authentic,85,supported,True,0.488
+blind-l03,Sinhala and Tamil are official languages of Sri Lanka.,real,Likely authentic,85,supported,True,0.571
+blind-l04,Galle Face Green is an urban park in Colombo.,real,Likely authentic,85,supported,True,0.37
+blind-l05,The Sri Lankan flag shows a lion holding a sword.,real,Likely authentic,85,supported,True,0.076
+blind-l06,Sri Lanka is the world's largest exporter of cinnamon.,real,Needs review,50,not_enough_evidence,True,0.658
+blind-l07,Nuwara Eliya is a hill town known for tea plantations.,real,Likely authentic,85,supported,True,0.517
+blind-l08,Polonnaruwa was a medieval capital of Sri Lanka.,real,Likely authentic,85,supported,True,0.408
+blind-l09,Sri Lanka gained independence from Britain in 1948.,real,Likely authentic,85,supported,True,0.285
+blind-l10,Arthur C. Clarke lived in Sri Lanka for decades.,real,Likely authentic,85,supported,True,0.244
+blind-l11,Sri Lanka's Parliament is located in Sri Jayawardenepura Kotte.,real,Likely authentic,85,supported,True,0.295

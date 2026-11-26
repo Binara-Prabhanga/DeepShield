@@ -1,0 +1,17 @@
+{
+  "model": "MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli",
+  "model_revision": "6f5cf0a2b59cabb106aca4c287eed12e357e90eb",
+  "limit": null,
+  "seed": 42,
+  "bootstrap": 1000,
+  "dataset": "liar2 val (tune) / test (score)",
+  "gold_mapping": "labels 4-5 supports, 0-1 refutes, 2-3 excluded from scoring",
+  "evidence": "cleaned LIAR2 justification (gold evidence, not live retrieval)",
+  "granularities": [
+    "passage",
+    "sentence"
+  ],
+  "python": "3.13.14",
+  "torch": "2.15.0+cpu",
+  "runtime_seconds": 5460.5
+}

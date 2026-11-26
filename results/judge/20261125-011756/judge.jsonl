@@ -1,0 +1,60 @@
+{"id": "fact-30t", "verdict": "supported", "reason": "Snippet 1 states the speed of light in a vacuum is approximately 299,792,458 metres per second, which rounds to 300,000 kilometres per second."}
+{"id": "fact-30f", "verdict": "refuted", "reason": "Snippet [5] states the speed of light is about 300,000 kilometres per second, not per hour."}
+{"id": "fact-31t", "verdict": "supported", "reason": "Snippet 4 explicitly states that India gained independence on August 15, 1947."}
+{"id": "fact-31f", "verdict": "refuted", "reason": "India did not gain independence in 1960; snippet 1 mentions a 1960 declaration for colonial countries generally, not India's independence."}
+{"id": "fact-32t", "verdict": "supported", "reason": "Snippet 2 explicitly states that the Colosseum is one of Rome's archaeological sites, confirming its location in Rome."}
+{"id": "fact-32f", "verdict": "refuted", "reason": "Snippet 2 corrects a mistake confusing the Roman Colosseum with a Greek venue in Athens, showing the Colosseum is not in Athens."}
+{"id": "fact-33t", "verdict": "not_enough_evidence", "reason": "The snippets do not mention the number of times Brazil has won the FIFA World Cup."}
+{"id": "fact-33f", "verdict": "not_enough_evidence", "reason": "The provided snippets do not mention the total number of FIFA World Cups Brazil has won."}
+{"id": "fact-34t", "verdict": "supported", "reason": "Snippet 2 confirms Mahatma Gandhi led the independence movement, and Snippet 6 shows he led nonviolent campaigns like non-cooperation."}
+{"id": "fact-34f", "verdict": "refuted", "reason": "Snippet 6 shows Gandhi led through non-violent campaigns like the non-cooperation movement, not armed warfare."}
+{"id": "fact-35t", "verdict": "supported", "reason": "Snippets 1, 2, 3, and 4 state that the Sahara is the world's largest hot desert."}
+{"id": "fact-35f", "verdict": "refuted", "reason": "Snippet 2 states the Gobi is a cold desert, and snippet 1 identifies the Sahara as the world's largest hot desert."}
+{"id": "fact-36t", "verdict": "supported", "reason": "Snippet 1 explicitly states that Hamlet is a tragedy written by William Shakespeare."}
+{"id": "fact-36f", "verdict": "refuted", "reason": "Snippet 1 shows Charles Dickens wrote Great Expectations, not Hamlet."}
+{"id": "fact-37t", "verdict": "supported", "reason": "Snippet 1 explicitly states that DNA is a molecule that carries genetic information."}
+{"id": "fact-37f", "verdict": "refuted", "reason": "Snippets 2 and 3 state that DNA is also found in animals, fungi, and protists, refuting the claim."}
+{"id": "fact-38t", "verdict": "supported", "reason": "Snippets 1, 3, and 4 state that Tokyo hosted the 1964 Summer Olympics."}
+{"id": "fact-38f", "verdict": "refuted", "reason": "Snippet 3 shows Paris hosted the 1924 Olympics, while Snippet 4 shows Tokyo hosted the 1964 Olympics."}
+{"id": "fact-39t", "verdict": "supported", "reason": "Snippet 1 explicitly states that the chemical symbol for gold is Au."}
+{"id": "fact-39f", "verdict": "refuted", "reason": "Snippet 1 states gold has the chemical symbol Au, while snippet 4 shows Ag is for silver."}
+{"id": "fact-40t", "verdict": "supported", "reason": "Snippets 1, 4, and 6 clearly state that Russia launched a full-scale invasion of Ukraine in February 2022."}
+{"id": "fact-40f", "verdict": "refuted", "reason": "Snippets 2, 4, and 6 show the invasion occurred in February 2022, not 2012."}
+{"id": "fact-41t", "verdict": "supported", "reason": "Snippet [1] states that the sole currency of Germany has been the Euro since 2002."}
+{"id": "fact-41f", "verdict": "refuted", "reason": "Snippet 2 states that the yen is the official currency of Japan, not Germany."}
+{"id": "fact-42t", "verdict": "supported", "reason": "Snippet [1] explicitly states that Venus is the hottest planet in the solar system."}
+{"id": "fact-42f", "verdict": "refuted", "reason": "Snippet [1] states that Venus is the hottest planet in the solar system, refuting the claim."}
+{"id": "fact-43t", "verdict": "supported", "reason": "Snippet [2] confirms the Panama Canal connects the Atlantic and Pacific oceans."}
+{"id": "fact-43f", "verdict": "refuted", "reason": "Snippet 1 states the Suez Canal connects the Mediterranean Sea and the Red Sea, not the Atlantic and Pacific oceans."}
+{"id": "fact-44t", "verdict": "supported", "reason": "Snippets 1 and 2 confirm that the blue water lily (Nil mānel) is the national flower of Sri Lanka."}
+{"id": "fact-44f", "verdict": "refuted", "reason": "Snippet 6 shows that the Mesua ferrea is the national tree, and no snippet states the red rose is the national flower of Sri Lanka."}
+{"id": "fact-45t", "verdict": "supported", "reason": "Snippet 1 explicitly states that Sri Jayawardenepura Kotte is the legislative capital of Sri Lanka."}
+{"id": "fact-45f", "verdict": "refuted", "reason": "Snippet 1 shows that Sri Jayawardenepura Kotte and Colombo are the current capitals, not Anuradhapura."}
+{"id": "fact-46t", "verdict": "supported", "reason": "Snippet 4 confirms that the 2008 Summer Olympics were officially branded as Beijing 2008."}
+{"id": "fact-46f", "verdict": "refuted", "reason": "Snippets 1, 2, and 5 show the 2008 Summer Olympics were in Beijing, while snippet 4 shows Sydney hosted in 2000."}
+{"id": "fact-47t", "verdict": "supported", "reason": "Snippet [1] explicitly states that Mercury is the closest planet to the Sun."}
+{"id": "fact-47f", "verdict": "refuted", "reason": "Snippet 2 states that Neptune is the farthest known planet from the Sun."}
+{"id": "fact-48t", "verdict": "supported", "reason": "Snippets [4], [5], and [6] explicitly state that the Statue of Liberty was a gift from France to the United States."}
+{"id": "fact-48f", "verdict": "refuted", "reason": "Snippet [2] states the Statue of Liberty was a gift from France, not Spain."}
+{"id": "fact-49t", "verdict": "supported", "reason": "Snippets 3 and 4 state that penicillin was discovered by Alexander Fleming."}
+{"id": "fact-49f", "verdict": "refuted", "reason": "Snippet 2 states Fleming found penicillin, while Marie Curie is credited with discovering radium and polonium in snippet 5."}
+{"id": "fact-50t", "verdict": "supported", "reason": "Snippet 2 states the Great Barrier Reef stretches along the east coast of Australia."}
+{"id": "fact-50f", "verdict": "refuted", "reason": "Snippet [2] states the Great Barrier Reef is off the east coast of Australia, not Norway."}
+{"id": "fact-51t", "verdict": "supported", "reason": "Snippet 2 explicitly states that Sinhala and Tamil are Sri Lanka's official languages."}
+{"id": "fact-51f", "verdict": "not_enough_evidence", "reason": "Snippet 4 mentions Sri Lanka's official languages, but does not list French and German. No snippet supports the claim."}
+{"id": "fact-52t", "verdict": "supported", "reason": "Snippets 1, 2, and 4 state that bitcoin was created or invented by a person or group using the pseudonym Satoshi Nakamoto."}
+{"id": "fact-52f", "verdict": "refuted", "reason": "Snippet 1 shows Elon Musk explicitly denies being Satoshi Nakamoto, the creator of Bitcoin."}
+{"id": "fact-53t", "verdict": "supported", "reason": "Snippet 1 states that the ancient Olympic Games were held in ancient Greece."}
+{"id": "fact-53f", "verdict": "refuted", "reason": "Snippet 1 shows the ancient Olympic Games originated in Greece, not Rome."}
+{"id": "fact-54t", "verdict": "supported", "reason": "Snippet 1 states that the climate of Antarctica is the coldest on Earth."}
+{"id": "fact-54f", "verdict": "refuted", "reason": "Snippet 4 states that Antarctica is the coldest continent, refuting the claim."}
+{"id": "fact-55t", "verdict": "supported", "reason": "Snippets 1, 2, 3, and 6 explicitly state that the Chernobyl disaster occurred in 1986."}
+{"id": "fact-55f", "verdict": "refuted", "reason": "Snippets 1, 2, 3, and 5 state the Chernobyl disaster occurred in 1986, not 1996."}
+{"id": "fact-56t", "verdict": "supported", "reason": "Snippet 1 confirms that Ludwig van Beethoven composed Symphony No. 9."}
+{"id": "fact-56f", "verdict": "refuted", "reason": "Snippet 4 shows Beethoven was a composer, but general knowledge confirms Antonio Vivaldi composed The Four Seasons, not Beethoven."}
+{"id": "fact-57t", "verdict": "supported", "reason": "Snippet 2 states that Mount Fuji is the highest peak in Japan, supporting the claim."}
+{"id": "fact-57f", "verdict": "refuted", "reason": "Snippet [1] states that Mount Fuji is located in Japan, not China."}
+{"id": "fact-58t", "verdict": "supported", "reason": "Snippet 6 states that the Burj Khalifa is a skyscraper in Dubai."}
+{"id": "fact-58f", "verdict": "refuted", "reason": "Snippet 1 states the Burj Khalifa is in Dubai, United Arab Emirates, not Paris."}
+{"id": "fact-59t", "verdict": "supported", "reason": "Snippet 1 confirms that Michael Phelps holds the all-time record for Olympic gold medals with 23."}
+{"id": "fact-59f", "verdict": "refuted", "reason": "The snippets do not state that Usain Bolt won more Olympic gold medals than any other athlete; snippet [1] mentions other multiple medalists."}

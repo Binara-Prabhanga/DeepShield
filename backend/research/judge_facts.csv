@@ -1,0 +1,263 @@
+id,claim,real,split
+fact-00t,"The Eiffel Tower is located in Paris, France.",1,dev
+fact-00f,"The Eiffel Tower is located in London, England.",0,dev
+fact-01t,Water is made of hydrogen and oxygen.,1,dev
+fact-01f,Water is made of carbon and nitrogen.,0,dev
+fact-02t,"The 2020 Summer Olympics were held in Tokyo, Japan, in 2021.",1,dev
+fact-02f,"The 2020 Summer Olympics were held in Paris, France, in 2019.",0,dev
+fact-03t,Mount Everest is the highest mountain above sea level.,1,dev
+fact-03f,Mount Kilimanjaro is the highest mountain above sea level.,0,dev
+fact-04t,The Great Wall of China is located in China.,1,dev
+fact-04f,The Great Wall of China is located in Egypt.,0,dev
+fact-05t,Barack Obama was the 44th president of the United States.,1,dev
+fact-05f,Barack Obama was the 30th president of the United States.,0,dev
+fact-06t,The Pacific Ocean is the largest ocean on Earth.,1,dev
+fact-06f,The Atlantic Ocean is the largest ocean on Earth.,0,dev
+fact-07t,Albert Einstein developed the theory of relativity.,1,dev
+fact-07f,Isaac Newton developed the theory of relativity.,0,dev
+fact-08t,The capital of Australia is Canberra.,1,dev
+fact-08f,The capital of Australia is Sydney.,0,dev
+fact-09t,Sri Lanka is an island country in South Asia.,1,dev
+fact-09f,Sri Lanka is an island country in South America.,0,dev
+fact-10t,The Amazon River flows through Brazil.,1,dev
+fact-10f,The Amazon River flows through India.,0,dev
+fact-11t,World War II ended in 1945.,1,dev
+fact-11f,World War II ended in 1965.,0,dev
+fact-12t,The human heart has four chambers.,1,dev
+fact-12f,The human heart has seven chambers.,0,dev
+fact-13t,Neil Armstrong was the first person to walk on the Moon.,1,dev
+fact-13f,Yuri Gagarin was the first person to walk on the Moon.,0,dev
+fact-14t,The Nile flows through Egypt.,1,dev
+fact-14f,The Nile flows through Canada.,0,dev
+fact-15t,The capital city of Japan is Tokyo.,1,dev
+fact-15f,The capital city of Japan is Osaka.,0,dev
+fact-16t,The Berlin Wall fell in 1989.,1,dev
+fact-16f,The Berlin Wall fell in 1975.,0,dev
+fact-17t,Colombo is the largest city in Sri Lanka.,1,dev
+fact-17f,Kandy is the largest city in Sri Lanka.,0,dev
+fact-18t,Sri Lanka gained independence from Britain in 1948.,1,dev
+fact-18f,Sri Lanka gained independence from Britain in 1968.,0,dev
+fact-19t,The 2022 FIFA World Cup was held in Qatar.,1,dev
+fact-19f,The 2022 FIFA World Cup was held in Brazil.,0,dev
+fact-20t,Argentina won the 2022 FIFA World Cup.,1,dev
+fact-20f,France won the 2022 FIFA World Cup.,0,dev
+fact-21t,The World Health Organization declared COVID-19 a pandemic in March 2020.,1,dev
+fact-21f,The World Health Organization declared COVID-19 a pandemic in March 2015.,0,dev
+fact-22t,Mount Kilimanjaro is in Tanzania.,1,dev
+fact-22f,Mount Kilimanjaro is in Peru.,0,dev
+fact-23t,Marie Curie won Nobel Prizes in both Physics and Chemistry.,1,dev
+fact-23f,Marie Curie won Nobel Prizes in both Literature and Peace.,0,dev
+fact-24t,The United Nations was founded in 1945.,1,dev
+fact-24f,The United Nations was founded in 1925.,0,dev
+fact-25t,Photosynthesis uses light to turn carbon dioxide and water into glucose and oxygen.,1,dev
+fact-25f,Photosynthesis uses moonlight to turn oxygen into carbon dioxide.,0,dev
+fact-26t,The Titanic sank in 1912 after hitting an iceberg.,1,dev
+fact-26f,The Titanic sank in 1950 after hitting an iceberg.,0,dev
+fact-27t,The capital of Canada is Ottawa.,1,dev
+fact-27f,The capital of Canada is Toronto.,0,dev
+fact-28t,Leonardo da Vinci painted the Mona Lisa.,1,dev
+fact-28f,Michelangelo painted the Mona Lisa.,0,dev
+fact-29t,The Sun is a star.,1,dev
+fact-29f,The Sun is a planet.,0,dev
+fact-30t,"The speed of light in a vacuum is about 300,000 kilometres per second.",1,test
+fact-30f,The speed of light in a vacuum is about 300 kilometres per hour.,0,test
+fact-31t,India gained independence in 1947.,1,test
+fact-31f,India gained independence in 1960.,0,test
+fact-32t,The Colosseum is located in Rome.,1,test
+fact-32f,The Colosseum is located in Athens.,0,test
+fact-33t,Brazil has won the FIFA World Cup five times.,1,test
+fact-33f,Brazil has won the FIFA World Cup ten times.,0,test
+fact-34t,Mahatma Gandhi led the Indian independence movement through nonviolent resistance.,1,test
+fact-34f,Mahatma Gandhi led the Indian independence movement through armed warfare.,0,test
+fact-35t,The Sahara is the largest hot desert in the world.,1,test
+fact-35f,The Gobi is the largest hot desert in the world.,0,test
+fact-36t,William Shakespeare wrote Hamlet.,1,test
+fact-36f,Charles Dickens wrote Hamlet.,0,test
+fact-37t,DNA carries genetic information in living organisms.,1,test
+fact-37f,DNA is found only in plants.,0,test
+fact-38t,Tokyo hosted the Summer Olympics in 1964.,1,test
+fact-38f,Tokyo hosted the Summer Olympics in 1924.,0,test
+fact-39t,The chemical symbol for gold is Au.,1,test
+fact-39f,The chemical symbol for gold is Ag.,0,test
+fact-40t,Russia launched a full-scale invasion of Ukraine in February 2022.,1,test
+fact-40f,Russia launched a full-scale invasion of Ukraine in February 2012.,0,test
+fact-41t,The euro is the currency of Germany.,1,test
+fact-41f,The yen is the currency of Germany.,0,test
+fact-42t,Venus is the hottest planet in the Solar System.,1,test
+fact-42f,Mars is the hottest planet in the Solar System.,0,test
+fact-43t,The Panama Canal connects the Atlantic and Pacific oceans.,1,test
+fact-43f,The Suez Canal connects the Atlantic and Pacific oceans.,0,test
+fact-44t,The blue water lily is the national flower of Sri Lanka.,1,test
+fact-44f,The red rose is the national flower of Sri Lanka.,0,test
+fact-45t,Sri Jayawardenepura Kotte is the legislative capital of Sri Lanka.,1,test
+fact-45f,Anuradhapura is the current capital of Sri Lanka.,0,test
+fact-46t,The 2008 Summer Olympics were held in Beijing.,1,test
+fact-46f,The 2008 Summer Olympics were held in Sydney.,0,test
+fact-47t,Mercury is the closest planet to the Sun.,1,test
+fact-47f,Neptune is the closest planet to the Sun.,0,test
+fact-48t,The Statue of Liberty was a gift from France to the United States.,1,test
+fact-48f,The Statue of Liberty was a gift from Spain to the United States.,0,test
+fact-49t,Penicillin was discovered by Alexander Fleming.,1,test
+fact-49f,Penicillin was discovered by Marie Curie.,0,test
+fact-50t,The Great Barrier Reef is off the coast of Australia.,1,test
+fact-50f,The Great Barrier Reef is off the coast of Norway.,0,test
+fact-51t,Sinhala and Tamil are the official languages of Sri Lanka.,1,test
+fact-51f,French and German are the official languages of Sri Lanka.,0,test
+fact-52t,Bitcoin was created by a person or group using the name Satoshi Nakamoto.,1,test
+fact-52f,Bitcoin was created by Elon Musk.,0,test
+fact-53t,The Olympic Games originated in ancient Greece.,1,test
+fact-53f,The Olympic Games originated in ancient Rome.,0,test
+fact-54t,Antarctica is the coldest continent.,1,test
+fact-54f,Africa is the coldest continent.,0,test
+fact-55t,The Chernobyl nuclear disaster occurred in 1986.,1,test
+fact-55f,The Chernobyl nuclear disaster occurred in 1996.,0,test
+fact-56t,Ludwig van Beethoven composed the Ninth Symphony.,1,test
+fact-56f,Ludwig van Beethoven composed The Four Seasons.,0,test
+fact-57t,Mount Fuji is in Japan.,1,test
+fact-57f,Mount Fuji is in China.,0,test
+fact-58t,The Burj Khalifa is in Dubai.,1,test
+fact-58f,The Burj Khalifa is in Paris.,0,test
+fact-59t,Michael Phelps has won more Olympic gold medals than any other athlete.,1,test
+fact-59f,Usain Bolt has won more Olympic gold medals than any other athlete.,0,test
+fict-00,The Sri Lankan government announced that the Moon will be renamed after a local cricketer.,0,fiction_dev
+fict-01,Scientists confirmed that drinking hot water every morning cures all forms of cancer.,0,fiction_dev
+fict-02,The United Nations has declared that all cats are now legally citizens of France.,0,fiction_dev
+fict-03,NASA announced that the Sun will go dark for three days next month.,0,fiction_dev
+fict-04,The president signed a law making Mondays optional for all workers worldwide.,0,fiction_dev
+fict-05,A new study shows that humans only use their left brain during the winter.,0,fiction_dev
+fict-06,The Eiffel Tower was moved to Berlin last year by the German government.,0,fiction_dev
+fict-07,Researchers have discovered a city of gold under the Pacific Ocean that is home to ten million people.,0,fiction_dev
+fict-08,The Prime Minister announced that every citizen will receive a free flying car next year.,0,fiction_dev
+fict-09,The WHO confirmed that eating chocolate for breakfast makes people immune to all viruses.,0,fiction_dev
+fict-10,The Great Wall of China was built in a single weekend in the year 2005.,0,fiction_dev
+fict-11,Scientists have proven that the Earth is flat and floats on the back of a giant turtle.,0,fiction_dev
+fict-12,The Amazon rainforest has been relocated to Antarctica to protect it from climate change.,0,fiction_dev
+fict-13,A school in Colombo announced that students will now attend class only on the Moon.,0,fiction_dev
+fict-14,The government has banned the colour blue from all public buildings.,0,fiction_dev
+fict-15,Elon Musk has been elected king of Mars by a vote of Martian residents.,0,fiction_dev
+fict-16,A new law requires all dogs in Tokyo to carry passports and pay income tax.,0,fiction_dev
+fict-17,Gravity will be switched off for one hour on Friday according to physicists.,0,fiction_dev
+fict-18,The Indian Ocean has been drained and refilled with orange juice for a festival.,0,fiction_dev
+fict-19,Footballer Lionel Messi has been appointed the Prime Minister of Sri Lanka.,0,fiction_dev
+fict-20,Drinking a cup of bleach daily has been approved by doctors as a vitamin supplement.,0,fiction_test
+fict-21,"The Pacific Ocean has dried up completely, leaving only sand.",0,fiction_test
+fict-22,Bitcoin was declared the official religion of Switzerland.,0,fiction_test
+fict-23,Scientists announced they have cloned a living dinosaur and it now works at a bank in London.,0,fiction_test
+fict-24,The entire population of Japan moved to the Sahara desert last summer.,0,fiction_test
+fict-25,The Sri Lankan cricket team won the football World Cup by scoring twelve goals in the final.,0,fiction_test
+fict-26,A volcano erupted in the middle of the Thames river in London and created a new island of chocolate.,0,fiction_test
+fict-27,The Queen of England has announced that she will play for Manchester United next season.,0,fiction_test
+fict-28,Mount Everest was shortened by ten kilometres after a powerful sneeze.,0,fiction_test
+fict-29,The Titanic has been refloated and now sails daily between Colombo and Dubai.,0,fiction_test
+fict-30,Humans have been confirmed to photosynthesize if they stand in the sun for ten minutes.,0,fiction_test
+fict-31,The planet Jupiter was moved closer to Earth so that people can visit by train.,0,fiction_test
+fict-32,Every tree in the world turned purple on the same day in March.,0,fiction_test
+fict-33,The Statue of Liberty has been given to Brazil and now stands in Rio.,0,fiction_test
+fict-34,The WHO announced that sleeping is no longer necessary for adults.,0,fiction_test
+fict-35,A new law bans clouds from entering the airspace of Germany.,0,fiction_test
+fict-36,The Moon has been sold to a private company for one dollar.,0,fiction_test
+fict-37,Water has been declared to be dry by the International Committee of Chemistry.,0,fiction_test
+fict-38,The Pyramids of Giza were built last year using 3D printers.,0,fiction_test
+fict-39,All the world's oceans turned to ice for twenty-four hours in 2024.,0,fiction_test
+obsc-00,Sigiriya is a UNESCO World Heritage Site in Sri Lanka.,1,obscure_dev
+obsc-01,The Southern Expressway in Sri Lanka connects Colombo and Matara.,1,obscure_dev
+obsc-02,Sri Lanka won the Cricket World Cup in 1996.,1,obscure_dev
+obsc-03,The Sri Lankan Parliament is located in Sri Jayawardenepura Kotte.,1,obscure_dev
+obsc-04,Mahinda Rajapaksa served as President of Sri Lanka from 2005 to 2015.,1,obscure_dev
+obsc-05,Colombo Port City is a reclaimed land development in Sri Lanka.,1,obscure_dev
+obsc-06,The Kelani River flows through the Colombo area into the Indian Ocean.,1,obscure_dev
+obsc-07,Muttiah Muralitharan holds the record for the most wickets in Test cricket.,1,obscure_dev
+obsc-08,The Jaffna Peninsula is in the northern part of Sri Lanka.,1,obscure_dev
+obsc-09,Adam's Peak is a mountain in Sri Lanka.,1,obscure_dev
+obsc-10,The currency of Sri Lanka is the Sri Lankan rupee.,1,obscure_dev
+obsc-11,The Temple of the Tooth is located in Kandy.,1,obscure_dev
+obsc-12,Ceylon tea is a famous export of Sri Lanka.,1,obscure_dev
+obsc-13,Sirimavo Bandaranaike was the world's first female prime minister.,1,obscure_dev
+obsc-14,Sri Lanka and India are separated by the Palk Strait.,1,obscure_dev
+obsc-15,The Sri Lankan civil war ended in 2009.,1,obscure_test
+obsc-16,The Galle Fort is a UNESCO World Heritage Site.,1,obscure_test
+obsc-17,Anuradhapura was an ancient capital of Sri Lanka.,1,obscure_test
+obsc-18,Yala National Park is known for its leopard population.,1,obscure_test
+obsc-19,The Bandaranaike International Airport serves Colombo.,1,obscure_test
+obsc-20,Kumar Sangakkara is a former Sri Lankan cricketer.,1,obscure_test
+obsc-21,The Lotus Tower is a telecommunications tower in Colombo.,1,obscure_test
+obsc-22,Sri Lanka was formerly known as Ceylon.,1,obscure_test
+obsc-23,The Mahaweli is the longest river in Sri Lanka.,1,obscure_test
+obsc-24,Dambulla is known for its cave temple complex.,1,obscure_test
+obsc-25,Sri Lanka co-hosted the 2011 Cricket World Cup.,1,obscure_test
+obsc-26,The Kandy Esala Perahera is an annual Buddhist festival in Sri Lanka.,1,obscure_test
+obsc-27,Trincomalee has one of the largest natural harbours in the world.,1,obscure_test
+obsc-28,The Sinharaja Forest Reserve is a UNESCO World Heritage Site in Sri Lanka.,1,obscure_test
+obsc-29,Volleyball is the national sport of Sri Lanka.,1,obscure_test
+blind-t00,Water boils at 100 degrees Celsius at sea level.,1,blind
+blind-t01,The Nile flows through Egypt.,1,blind
+blind-t02,Leonardo da Vinci painted the Mona Lisa.,1,blind
+blind-t03,Humans have 23 pairs of chromosomes.,1,blind
+blind-t04,Tokyo is the capital of Japan.,1,blind
+blind-t05,The human heart has four chambers.,1,blind
+blind-t06,World War II ended in 1945.,1,blind
+blind-t07,Mars is the fourth planet from the Sun.,1,blind
+blind-t08,"Shakespeare wrote Hamlet, a tragedy about a Danish prince.",1,blind
+blind-t09,The Amazon is the largest rainforest on Earth.,1,blind
+blind-t10,Oxygen is essential for human respiration.,1,blind
+blind-t11,Mount Kilimanjaro is the highest mountain in Africa.,1,blind
+blind-t12,The Berlin Wall fell in 1989.,1,blind
+blind-t13,Albert Einstein developed the theory of relativity.,1,blind
+blind-t14,Canberra is the capital city of Australia.,1,blind
+blind-t15,Sound cannot travel through a vacuum.,1,blind
+blind-t16,"The Great Barrier Reef lies off the coast of Queensland, Australia.",1,blind
+blind-t17,Marie Curie won Nobel Prizes in both physics and chemistry.,1,blind
+blind-t18,The Pacific is the largest of the world's oceans.,1,blind
+blind-t19,Neil Armstrong was the first person to walk on the Moon in 1969.,1,blind
+blind-t20,Honey never spoils if it is stored properly.,1,blind
+blind-t21,Penicillin was discovered by Alexander Fleming in 1928.,1,blind
+blind-t22,India gained independence from British rule in 1947.,1,blind
+blind-t23,Diamonds are made of carbon.,1,blind
+blind-f00,Water boils at 50 degrees Celsius at sea level.,0,blind
+blind-f01,The Nile flows through Brazil.,0,blind
+blind-f02,Michelangelo painted the Mona Lisa.,0,blind
+blind-f03,Humans have 30 pairs of chromosomes.,0,blind
+blind-f04,Kyoto is the capital of Japan today.,0,blind
+blind-f05,The human heart has seven chambers.,0,blind
+blind-f06,World War II ended in 1960.,0,blind
+blind-f07,Mars is the closest planet to the Sun.,0,blind
+blind-f08,"Shakespeare wrote Hamlet, a comedy about a Spanish king.",0,blind
+blind-f09,The Sahara is the largest rainforest on Earth.,0,blind
+blind-f10,Helium is essential for human respiration.,0,blind
+blind-f11,Mount Kilimanjaro is the highest mountain in Europe.,0,blind
+blind-f12,The Berlin Wall fell in 1975.,0,blind
+blind-f13,Isaac Newton developed the theory of relativity.,0,blind
+blind-f14,Sydney is the capital city of Australia.,0,blind
+blind-f15,Sound travels faster than light through a vacuum.,0,blind
+blind-f16,The Great Barrier Reef lies off the coast of Norway.,0,blind
+blind-f17,Marie Curie never won a Nobel Prize.,0,blind
+blind-f18,The Atlantic is the largest of the world's oceans.,0,blind
+blind-f19,Buzz Aldrin was the first person to walk on the Moon in 1985.,0,blind
+blind-f20,Humans only use ten percent of their brains.,0,blind
+blind-f21,Penicillin was discovered by Isaac Newton in 1628.,0,blind
+blind-f22,India gained independence from French rule in 1947.,0,blind
+blind-f23,Diamonds are made of iron.,0,blind
+blind-i00,Scientists confirm that the Moon is made of cheese.,0,blind
+blind-i01,Parliament passed a law making rain illegal on weekends.,0,blind
+blind-i02,A man in Kandy has lived for 400 years.,0,blind
+blind-i03,Sri Lanka will switch to driving underwater next year.,0,blind
+blind-i04,Researchers taught goldfish to run for public office.,0,blind
+blind-i05,NASA announced that a city was found on the far side of Venus.,0,blind
+blind-i06,The central bank will pay citizens in chocolate coins starting in March.,0,blind
+blind-i07,A new species of dragon was discovered in the Yala National Park.,0,blind
+blind-i08,Drinking seawater daily is endorsed by all doctors as healthy.,0,blind
+blind-i09,Mount Everest moved to Nepal's capital overnight last week.,0,blind
+blind-i10,The government ordered all clocks in the country to run backwards.,0,blind
+blind-i11,Sunlight has been banned in Colombo during public holidays.,0,blind
+blind-l00,Colombo is the largest city in Sri Lanka.,1,blind
+blind-l01,Sri Lanka is an island in the Indian Ocean.,1,blind
+blind-l02,Kandy is home to the Temple of the Tooth.,1,blind
+blind-l03,Sinhala and Tamil are official languages of Sri Lanka.,1,blind
+blind-l04,Galle Face Green is an urban park in Colombo.,1,blind
+blind-l05,The Sri Lankan flag shows a lion holding a sword.,1,blind
+blind-l06,Sri Lanka is the world's largest exporter of cinnamon.,1,blind
+blind-l07,Nuwara Eliya is a hill town known for tea plantations.,1,blind
+blind-l08,Polonnaruwa was a medieval capital of Sri Lanka.,1,blind
+blind-l09,Sri Lanka gained independence from Britain in 1948.,1,blind
+blind-l10,Arthur C. Clarke lived in Sri Lanka for decades.,1,blind
+blind-l11,Sri Lanka's Parliament is located in Sri Jayawardenepura Kotte.,1,blind

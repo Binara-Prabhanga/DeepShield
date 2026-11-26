@@ -1,0 +1,60 @@
+{"id": "fact-00t", "verdict": "supported", "reason": "Snippets [5] and [6] explicitly confirm the original Eiffel Tower is located in Paris, France."}
+{"id": "fact-00f", "verdict": "refuted", "reason": "Snippet [3] states the Eiffel Tower is located in Paris, France, not London."}
+{"id": "fact-01t", "verdict": "supported", "reason": "Snippets 2 and 4 state that water has hydrogen and oxygen atoms."}
+{"id": "fact-01f", "verdict": "refuted", "reason": "The claim is refuted by general knowledge as water is made of hydrogen and oxygen, not carbon and nitrogen."}
+{"id": "fact-02t", "verdict": "supported", "reason": "Snippets 2, 3, 4, and 5 confirm the 2020 Summer Olympics were in Tokyo, and snippet 4 states they were held in 2021."}
+{"id": "fact-02f", "verdict": "refuted", "reason": "Snippets [4], [5], and [6] show the 2020 Summer Olympics were held in Tokyo, not Paris, and in 2021, not 2019."}
+{"id": "fact-03t", "verdict": "supported", "reason": "Snippet 2 confirms that Mount Everest is the highest point above sea level on Earth."}
+{"id": "fact-03f", "verdict": "refuted", "reason": "Snippet 2 shows that Mount Everest is the highest mountain above sea level, not Kilimanjaro."}
+{"id": "fact-04t", "verdict": "supported", "reason": "Snippet 2 confirms that the Great Wall of China is a series of fortifications located in China."}
+{"id": "fact-04f", "verdict": "refuted", "reason": "Snippet 2 states the Great Wall of China is located in China, not Egypt."}
+{"id": "fact-05t", "verdict": "supported", "reason": "Snippets 1, 2, 3, 4, 5, and 6 explicitly state that Barack Obama is the 44th president of the United States."}
+{"id": "fact-05f", "verdict": "refuted", "reason": "Snippet [2] states Barack Obama was the 44th president, while snippet [3] states Calvin Coolidge was the 30th president."}
+{"id": "fact-06t", "verdict": "supported", "reason": "Snippet 1 states that the Pacific Ocean is the largest ocean on Earth."}
+{"id": "fact-06f", "verdict": "refuted", "reason": "Snippet 4 shows the Atlantic Ocean is the second largest, not the largest."}
+{"id": "fact-07t", "verdict": "supported", "reason": "Snippet 1 explicitly states that Albert Einstein developed the theory of relativity."}
+{"id": "fact-07f", "verdict": "refuted", "reason": "Snippet [1] states that the theory of relativity was proposed by Albert Einstein, not Isaac Newton."}
+{"id": "fact-08t", "verdict": "supported", "reason": "Snippet [2] explicitly states that Canberra is the capital city of Australia."}
+{"id": "fact-08f", "verdict": "refuted", "reason": "Snippet [4] states Canberra is the capital city, and Snippet [2] states Sydney is the capital of New South Wales, refuting the claim."}
+{"id": "fact-09t", "verdict": "supported", "reason": "Snippet 1 explicitly states that Sri Lanka is an island country in South Asia."}
+{"id": "fact-09f", "verdict": "refuted", "reason": "Snippet [1] states that Sri Lanka is located in South Asia, not South America."}
+{"id": "fact-10t", "verdict": "supported", "reason": "Snippet 2 mentions the upper stretches of the Amazon River in Brazil, supporting the claim."}
+{"id": "fact-10f", "verdict": "refuted", "reason": "Snippet [1] states that the Ganges flows through India, not the Amazon River."}
+{"id": "fact-11t", "verdict": "supported", "reason": "Snippets [3] and [4] confirm that World War II ended in 1945."}
+{"id": "fact-11f", "verdict": "refuted", "reason": "Snippets 3, 4, and 6 show that World War II ended in 1945, not 1965."}
+{"id": "fact-12t", "verdict": "supported", "reason": "Snippet 1 explicitly states that the human heart consists of four chambers."}
+{"id": "fact-12f", "verdict": "not_enough_evidence", "reason": "None of the snippets contain information about the number of chambers in the human heart."}
+{"id": "fact-13t", "verdict": "supported", "reason": "Snippet 5 states that Neil Armstrong was the first person to walk on the Moon."}
+{"id": "fact-13f", "verdict": "refuted", "reason": "Snippet 1 shows Neil Armstrong was the first person to walk on the Moon, while snippet 2 states Yuri Gagarin was the first in space."}
+{"id": "fact-14t", "verdict": "supported", "reason": "Snippet 1 explicitly states that the Nile flows through Egypt."}
+{"id": "fact-14f", "verdict": "refuted", "reason": "Snippet 1 shows the Nile flows through Egypt, not Canada."}
+{"id": "fact-15t", "verdict": "supported", "reason": "Snippet 1 confirms that Tokyo is the capital of Japan."}
+{"id": "fact-15f", "verdict": "refuted", "reason": "Snippet 4 states that the capital of Japan is Tokyo, refuting the claim."}
+{"id": "fact-16t", "verdict": "supported", "reason": "Snippets 3, 4, and 5 confirm that the Berlin Wall fell on 9 November 1989."}
+{"id": "fact-16f", "verdict": "refuted", "reason": "Snippet [3] and [4] state the Berlin Wall fell in 1989, not 1975."}
+{"id": "fact-17t", "verdict": "supported", "reason": "Snippets 1 and 2 state that Colombo is the largest city in Sri Lanka."}
+{"id": "fact-17f", "verdict": "refuted", "reason": "Snippets 1 through 5 do not state that Kandy is the largest city in Sri Lanka."}
+{"id": "fact-18t", "verdict": "supported", "reason": "Snippets 1, 2, 3, and 5 explicitly state that Sri Lanka gained independence from Britain in 1948."}
+{"id": "fact-18f", "verdict": "refuted", "reason": "Snippets 1, 2, 3, and 4 state Sri Lanka gained independence in 1948, not 1968."}
+{"id": "fact-19t", "verdict": "supported", "reason": "Snippets 1, 2, 4, and 5 confirm that the 2022 FIFA World Cup took place in Qatar."}
+{"id": "fact-19f", "verdict": "refuted", "reason": "Snippet [2] states the 2022 FIFA World Cup was held in Qatar, while snippet [3] states Brazil hosted in 1950."}
+{"id": "fact-20t", "verdict": "supported", "reason": "Snippet 6 indicates that the Argentina national football team were champions in 2022."}
+{"id": "fact-20f", "verdict": "refuted", "reason": "Snippet [1] refutes the claim by stating the referee celebrated France's win against England, not the tournament win, and Argentina won the 2022 World Cup."}
+{"id": "fact-21t", "verdict": "not_enough_evidence", "reason": "Snippets mention the COVID-19 pandemic and WHO declarations, but none explicitly state it was declared a pandemic in March 2020."}
+{"id": "fact-21f", "verdict": "refuted", "reason": "The claim states the WHO declared COVID-19 a pandemic in March 2015, but snippet [6] refers to rubella in April 2015."}
+{"id": "fact-22t", "verdict": "supported", "reason": "Snippet [2] explicitly states that Mount Kilimanjaro is a dormant stratovolcano in Tanzania."}
+{"id": "fact-22f", "verdict": "refuted", "reason": "Snippet 3 shows Kilimanjaro's summit is distinct from the highest point of Peru, refuting the claim."}
+{"id": "fact-23t", "verdict": "supported", "reason": "Snippet [4] states Marie Curie won the 1903 Nobel Prize in Physics, and general knowledge confirms her Nobel in Chemistry."}
+{"id": "fact-23f", "verdict": "refuted", "reason": "Snippet 5 shows Marie Curie won the Nobel Prize in Physics and Chemistry, not Literature and Peace."}
+{"id": "fact-24t", "verdict": "supported", "reason": "Snippet [1] states that the United Nations was founded in 1945."}
+{"id": "fact-24f", "verdict": "not_enough_evidence", "reason": "Snippets [1] through [5] do not mention the founding date of the United Nations."}
+{"id": "fact-25t", "verdict": "supported", "reason": "Snippet 1 confirms that photosynthesis uses sunlight to synthesize carbohydrates like glucose from carbon dioxide and water."}
+{"id": "fact-25f", "verdict": "refuted", "reason": "Photosynthesis does not use moonlight to turn oxygen into carbon dioxide. Snippet [5] mentions oxygenic photosynthesis, but none support the claim."}
+{"id": "fact-26t", "verdict": "supported", "reason": "Snippets 3, 4, and 5 confirm that the Titanic sank in 1912 after hitting an iceberg."}
+{"id": "fact-26f", "verdict": "refuted", "reason": "Snippet 1 states the Titanic sank in 1912, not 1950."}
+{"id": "fact-27t", "verdict": "supported", "reason": "Snippet [4] explicitly states that Ottawa is the capital city of Canada."}
+{"id": "fact-27f", "verdict": "refuted", "reason": "Snippet 5 states that Ottawa is the capital city of Canada, making the claim false."}
+{"id": "fact-28t", "verdict": "supported", "reason": "Snippet 4 explicitly states that the Mona Lisa is a painting by Leonardo da Vinci."}
+{"id": "fact-28f", "verdict": "refuted", "reason": "Snippet [2] states the Mona Lisa was painted by Leonardo da Vinci, not Michelangelo."}
+{"id": "fact-29t", "verdict": "supported", "reason": "Snippet [3] explicitly states that the Sun is the star located at the centre of the Solar System."}
+{"id": "fact-29f", "verdict": "refuted", "reason": "Scientific consensus and snippet 5 show the Sun is a star, not a planet."}

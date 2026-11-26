@@ -1,0 +1,6 @@
+{
+  "wikipedia_from": "..\\results\\live_evidence\\20261123-133939",
+  "test_factchecks_from": "..\\results\\live_evidence\\20261124-factcheck-raw\\evidence.jsonl",
+  "val_factchecks": "fetched by research/merge_factchecks.py",
+  "ranking": "app.services.evidence.rank_evidence"
+}

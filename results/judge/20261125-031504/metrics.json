@@ -1,0 +1,54 @@
+{
+  "n_claims": 500,
+  "n_answered": 500,
+  "coverage_decided": 0.154,
+  "verdicts": {
+    "supported": 13,
+    "not_enough_evidence": 423,
+    "refuted": 64
+  },
+  "supported": {
+    "n": 13,
+    "right": 9
+  },
+  "refuted": {
+    "n": 64,
+    "right": 56
+  },
+  "supported_by_kind": {
+    "": {
+      "n": 13,
+      "right": 9
+    }
+  },
+  "kinds": {
+    "": 500
+  },
+  "decided": {
+    "n": 77,
+    "judge_accuracy": 0.8441558441558441,
+    "text_accuracy_same_claims": 0.7922077922077922
+  },
+  "auroc_all_answered": {
+    "judge": {
+      "value": 0.5869658543028862,
+      "low": 0.5599933353743927,
+      "high": 0.6184135393263215
+    },
+    "text": {
+      "value": 0.7835265174030777,
+      "low": 0.7452788635530079,
+      "high": 0.8213531478221179
+    },
+    "s_ev": {
+      "value": 0.6603180106994254,
+      "low": 0.6137037554465535,
+      "high": 0.7122129657168024
+    }
+  },
+  "cv_auroc": {
+    "text": 0.7803067829073376,
+    "text+judge": 0.7821973449574005,
+    "text+judge+s_ev": 0.7827092001849284
+  }
+}

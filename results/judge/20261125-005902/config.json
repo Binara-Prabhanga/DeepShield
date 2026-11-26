@@ -1,0 +1,11 @@
+{
+  "snapshot": "..\\results\\live_evidence\\20261124-factcheck-strict",
+  "model": "gemini-flash-lite-latest",
+  "source": "val",
+  "split": "dev",
+  "variant": "knowledge",
+  "intros": true,
+  "limit": 150,
+  "strict_same_claim": true,
+  "seed": 42
+}

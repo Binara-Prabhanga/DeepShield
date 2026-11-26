@@ -1,0 +1,13 @@
+C:\Users\Binara\Downloads\DeepShield\backend\.venv\Lib\site-packages\torch\jit\_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+{
+  "split": "obscure_test",
+  "n": 15,
+  "right": 15,
+  "wrong": 0,
+  "needs_review": 0,
+  "table": {
+    "real -> Likely authentic": 15
+  }
+}
+Wrote ..\results\facts_app\20261125-042932

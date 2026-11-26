@@ -1,0 +1,19 @@
+{
+  "weights": {
+    "text_value": 1.112617,
+    "text_missing": 0.0,
+    "fused_value": 0.0,
+    "fused_missing": 0.0,
+    "evidence_value": 0.761113,
+    "evidence_missing": 0.0
+  },
+  "bias": 0.232491,
+  "temperature": 1.000674,
+  "alpha": 0.1,
+  "qhat": 0.7056124435412308,
+  "meta": {
+    "text_signal": "PLACEHOLDER tfidf",
+    "evidence": "C:\\Users\\Binara\\Downloads\\DeepShield\\results\\c1_stance\\20261122-193507\\predictions.csv",
+    "note": "Research artifact with a placeholder text signal; do not load in the app."
+  }
+}

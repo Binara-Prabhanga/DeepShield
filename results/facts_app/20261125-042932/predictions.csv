@@ -1,0 +1,16 @@
+id,claim,truth,label,score,judge,out_of_domain,text_p_real
+obsc-15,The Sri Lankan civil war ended in 2009.,real,Likely authentic,85,supported,True,0.225
+obsc-16,The Galle Fort is a UNESCO World Heritage Site.,real,Likely authentic,85,supported,True,0.412
+obsc-17,Anuradhapura was an ancient capital of Sri Lanka.,real,Likely authentic,85,supported,True,0.407
+obsc-18,Yala National Park is known for its leopard population.,real,Likely authentic,85,supported,True,0.41
+obsc-19,The Bandaranaike International Airport serves Colombo.,real,Likely authentic,85,supported,True,0.455
+obsc-20,Kumar Sangakkara is a former Sri Lankan cricketer.,real,Likely authentic,85,supported,True,0.39
+obsc-21,The Lotus Tower is a telecommunications tower in Colombo.,real,Likely authentic,85,supported,True,0.361
+obsc-22,Sri Lanka was formerly known as Ceylon.,real,Likely authentic,85,supported,True,0.399
+obsc-23,The Mahaweli is the longest river in Sri Lanka.,real,Likely authentic,85,supported,True,0.56
+obsc-24,Dambulla is known for its cave temple complex.,real,Likely authentic,85,supported,True,0.56
+obsc-25,Sri Lanka co-hosted the 2011 Cricket World Cup.,real,Likely authentic,85,supported,True,0.439
+obsc-26,The Kandy Esala Perahera is an annual Buddhist festival in Sri Lanka.,real,Likely authentic,85,supported,True,0.313
+obsc-27,Trincomalee has one of the largest natural harbours in the world.,real,Likely authentic,85,supported,True,0.704
+obsc-28,The Sinharaja Forest Reserve is a UNESCO World Heritage Site in Sri Lanka.,real,Likely authentic,85,supported,True,0.457
+obsc-29,Volleyball is the national sport of Sri Lanka.,real,Likely authentic,85,supported,True,0.526

@@ -1,0 +1,22 @@
+{
+  "n_claims": 150,
+  "n_answered": 149,
+  "coverage_decided": 0.18791946308724833,
+  "verdicts": {
+    "supported": 5,
+    "not_enough_evidence": 121,
+    "refuted": 23
+  },
+  "supported": {
+    "n": 5,
+    "right": 2
+  },
+  "refuted": {
+    "n": 23,
+    "right": 22
+  },
+  "decided": {
+    "n": 28,
+    "judge_accuracy": 0.8571428571428571
+  }
+}
